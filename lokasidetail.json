@@ -1,4 +1,4 @@
-{
+[
     {
       "propinsi" : "Nanggroe Aceh Darussalam",
       "kota_kab" : [
@@ -600,4 +600,4 @@
          "Kab. Sorong"
       ]
    }
-}
+]
