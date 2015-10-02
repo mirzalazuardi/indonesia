@@ -191,8 +191,9 @@
          "Kab.adm.kep.seribu"
       ]
    },
-{
-      "Jawa Barat":[
+    {
+      "propinsi" : "Jawa Barat",
+      "kota_kab" : [
          "Banjar",
          "Tasikmalaya",
          "Cimahi",
@@ -409,8 +410,9 @@
          "Kab. Kotawaringin Barat"
       ]
    },
-{
-      "Kalimanta Selatan":[
+    {
+      "propinsi" : "Kalimantan Selatan",
+      "kota_kab" : [
          "Banjarbaru",
          "Banjarmasin",
          "Kab. Balangan",
@@ -426,8 +428,9 @@
          "Kab. Tanah Laut"
       ]
    },
-{
-      "Kalimantan Timur":[
+    {
+      "propinsi" : "Kalimantan Timur",
+      "kota_kab" : [
          "Bontang",
          "Tarakan",
          "Samarinda",
